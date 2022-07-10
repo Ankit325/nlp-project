@@ -1,0 +1,17 @@
+eli5 
+lime 
+dalex 
+neattext 
+spacy 
+seaborn 
+altair 
+streamlit 
+scikit-learn
+pandas
+turtle
+numpy
+joblib
+altair
+tkinter
+pillow
+beaurifulsoup

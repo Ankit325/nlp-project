@@ -6,7 +6,7 @@ import numpy as np
 import joblib
 import altair as alt
 
-pipe_lr=joblib.load(open("models/emotion_classifier_pipe_lr.pkl",'rb'))
+pipe_lr=joblib.load(open("models/emotion_classifier_pipe_lr2.pkl",'rb'))
 
 def predict_emotion(text):
     results=pipe_lr.predict([text])
